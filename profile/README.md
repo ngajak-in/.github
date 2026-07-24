@@ -18,8 +18,6 @@ Kami memfokuskan pengembangan pada platform yang mengutamakan kecepatan, aksesib
 Kami sangat menyukai ide-ide baru dan kolaborasi dari komunitas open source! 
 
 * Jika Anda menemukan *bug* atau memiliki ide fitur baru, silakan buka **Issue**.
-* Ingin berkontribusi langsung dengan kode? Kirimkan **Pull Request** Anda sesuai petunjuk di repositori masing-masing.
-
 ---
 
 ### 📬 Hubungi & Ikuti Kami
