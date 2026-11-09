@@ -13,6 +13,13 @@ Kami memfokuskan pengembangan pada platform yang mengutamakan kecepatan, aksesib
 * 💌 **Berbagi Tanpa Batas:** Kirim undangan instan melalui WhatsApp, media sosial, atau tautan khusus.
 * 🛡️ **Keamanan & Privasi Data:** Melindungi data pribadi penyelenggara dan tamu undangan dengan standar keamanan terbaik.
 
+### 🏢 Apa Yang Kami Bangun?
+
+Kami memfokuskan ke aplikasi SaaS
+
+* [ngajak.in](https://ngajak.in) Undangan Digital
+* [KOS MANAGEMENT OS](https://ngajak.in) KOS MANAGEMENT OS
+
 ### 🤝 Mari Berkontribusi!
 
 Kami sangat menyukai ide-ide baru dan kolaborasi dari komunitas open source! 
